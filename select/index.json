@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Fantastic Baby",
+  "base_artist": "BIGBANG",
+  "createdAt": "2026-02-07T16:39:35.346001Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "FANTASTIC BABY",
+      "artist": "BIGBANG",
+      "has_synced": true,
+      "path": "select/01_FANTASTIC_BABY_BIGBANG.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "FANTASTIC BABY",
+      "artist": "BIGBANG",
+      "has_synced": true,
+      "path": "select/02_FANTASTIC_BABY_BIGBANG.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fantastic Baby",
+      "artist": "Big Bang",
+      "has_synced": true,
+      "path": "select/03_Fantastic_Baby_Big_Bang.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fantastic Baby",
+      "artist": "Bigbang",
+      "has_synced": true,
+      "path": "select/04_Fantastic_Baby_Bigbang.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "FANTASTIC BABY - Japanese ver.",
+      "artist": "BIGBANG",
+      "has_synced": true,
+      "path": "select/05_FANTASTIC_BABY_-_Japanese_ver._BIGBANG.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "FANTASTIC BABY (Special Edition Ver.)",
+      "artist": "BIGBANG",
+      "has_synced": true,
+      "path": "select/06_FANTASTIC_BABY_(Special_Edition_Ver.)_BIGBANG.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fantastic Baby",
+      "artist": "Bigbang",
+      "has_synced": true,
+      "path": "select/07_Fantastic_Baby_Bigbang.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "FANTASTIC BABY",
+      "artist": "BIGBANG",
+      "has_synced": true,
+      "path": "select/08_FANTASTIC_BABY_BIGBANG.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Crayon + Fantastic Baby - Live",
+      "artist": "G-DRAGON",
+      "has_synced": true,
+      "path": "select/09_Crayon_+_Fantastic_Baby_-_Live_G-DRAGON.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "FANTASTIC BABY",
+      "artist": "BIGBANG",
+      "has_synced": true,
+      "path": "select/10_FANTASTIC_BABY_BIGBANG.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Crayon Fantastic Baby",
+      "artist": "G-DRAGON",
+      "has_synced": false,
+      "path": "select/11_Crayon_Fantastic_Baby_G-DRAGON.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fantastic Baby - Live",
+      "artist": "BIGBANG",
+      "has_synced": true,
+      "path": "select/12_Fantastic_Baby_-_Live_BIGBANG.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "FANTASTIC BABY (Live)",
+      "artist": "BIGBANG",
+      "has_synced": true,
+      "path": "select/13_FANTASTIC_BABY_(Live)_BIGBANG.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fantastic Baby",
+      "artist": "BIGBANG",
+      "has_synced": true,
+      "path": "select/14_Fantastic_Baby_BIGBANG.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Fantastic Baby (Live)",
+      "artist": "BIGBANG",
+      "has_synced": true,
+      "path": "select/15_Fantastic_Baby_(Live)_BIGBANG.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FANTASTIC BABY",
+      "artist": "BIGBANG",
+      "has_synced": false,
+      "path": "select/pl_01_FANTASTIC_BABY_BIGBANG.txt"
+    }
+  ]
+}
